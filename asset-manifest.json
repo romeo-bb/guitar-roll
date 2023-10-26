@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/guitar-roll/static/css/main.0b202c9b.css",
-    "main.js": "/guitar-roll/static/js/main.68a2b85e.js",
+    "main.js": "/guitar-roll/static/js/main.374702ab.js",
     "static/media/guitar-400x400.jpeg": "/guitar-roll/static/media/guitar-400x400.4ae4d79fbc433f185040.jpeg",
     "static/media/someone_in_guitar-transformed.jpeg": "/guitar-roll/static/media/someone_in_guitar-transformed.343fc5bdacdb6c391e27.jpeg",
     "static/media/pho7.jpeg": "/guitar-roll/static/media/pho7.b91f055b3558672f266e.jpeg",
@@ -32,10 +32,10 @@
     "static/media/slick.woff": "/guitar-roll/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/guitar-roll/index.html",
     "main.0b202c9b.css.map": "/guitar-roll/static/css/main.0b202c9b.css.map",
-    "main.68a2b85e.js.map": "/guitar-roll/static/js/main.68a2b85e.js.map"
+    "main.374702ab.js.map": "/guitar-roll/static/js/main.374702ab.js.map"
   },
   "entrypoints": [
     "static/css/main.0b202c9b.css",
-    "static/js/main.68a2b85e.js"
+    "static/js/main.374702ab.js"
   ]
 }
