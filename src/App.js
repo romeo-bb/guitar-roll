@@ -12,7 +12,7 @@ import Contact from "./pages/Contact";
 function App() {
   return (
     <div>
-      <Router>
+      <Router basename="/guitar-roll">
           <Navbar />
         <Routes>
           <Route path="/" element={<Home />} />

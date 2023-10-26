@@ -27,10 +27,10 @@ const Hero = () => {
               Subscribe
             </button>
           </div>
-          <div className='px-2 flex flex-col mt-4 relative xsm:left-2 top-10 '>
-            <FaFacebook className='icon text-black m-2  w-8 h-8' style={{ color: "black" }}/>
-            <FaInstagram className='icon text-black m-2 w-8 h-8' style={{ color: "black" }}/>
-            <FaYoutube className='icon text-black m-2 w-8 h-8' style={{ color: "black" }}/>
+          <div className='px-2 flex flex-col mt-4 relative xsm:left-2 top-10'>
+            <a href="https://twitter.com/mandalosy"><FaFacebook className='icon text-black m-2  w-8 h-8' style={{ color: "black" }}/></a>
+            <a href="https://twitter.com/mandalosy"><FaInstagram className='icon text-black m-2 w-8 h-8' style={{ color: "black" }}/></a>
+            <a href="https://twitter.com/mandalosy"><FaYoutube className='icon text-black m-2 w-8 h-8' style={{ color: "black" }}/></a>
           </div>
         </div>
       </div>
