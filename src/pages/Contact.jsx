@@ -82,7 +82,7 @@ const Contact = () => {
             </div>
           </div>
           <div className='max-w-[630px] w-full '>
-            <h2 className="text-black m-0 text-2xl font-semibold leading-5 mb-8">For any questions, please contact with us</h2>
+            <h2 className="text-black m-0 text-2xl font-semibold leading-5 mb-8">For any questions, Please contact with us</h2>
             <p className="mb-10">Fill the form below.</p>
             <div>
                 <form action="" method="get" ref={form} onSubmit={sendEmail}>
